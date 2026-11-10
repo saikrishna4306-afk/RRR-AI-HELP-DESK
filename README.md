@@ -1,3 +1,19 @@
+# Multilingual AI Diagnostic Assistant for Industrial Embroidery Machines
+
+## 1. Problem
+Over 80% of embroidery machine operators and small apparel workshops in India face daily machine breakdowns (thread snapping, needle breakage, tension issues). Technical manuals are mostly in complex English, and technicians take hours to arrive, resulting in expensive factory downtime.
+
+## 2. Solution
+An intuitive, multilingual AI assistant powered by Gnani.ai. Operators can ask troubleshooting questions in their regional language (Telugu, Hindi, English) and receive step-by-step mechanical fixes in seconds.
+
+## 3. Key Features
+- **Regional Language Support:** Tested across Telugu, Hindi, and English.
+- **Accurate Domain Knowledge:** Understands textile terms like bobbin tension, thread path, needle deflection, and hoop stabilization.
+- **Fast & Lightweight:** Delivers low-latency answers suitable for real workshop floors.
+
+## 4. Built With
+- Gnani.ai Language & Speech APIs
+- Web Interface (Fast and mobile-friendly)
 # RRR AI Help Desk (demo)
 
 A demo website for RRR Group (embroidery and sewing machines, Hyderabad) with an AI Help Desk: ask about a machine problem in Telugu, Hindi or English by voice, text, photo or video, and get the repair video, a spoken answer and numbered steps. Built as a Gnani.ai internship showcase: multilingual voice, multimodal diagnosis, grounded hybrid RAG, cost control and evaluation.
