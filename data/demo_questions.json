@@ -1,0 +1,28 @@
+{
+  "faults": [
+    {
+      "fault_id": "upper_thread_breaking",
+      "te": "నా ఎంబ్రాయిడరీ మెషిన్‌లో పై దారం పదే పదే తెగిపోతోంది, ఏం చేయాలి?",
+      "hi": "मेरी एम्ब्रॉयडरी मशीन में ऊपर का धागा बार-बार टूट रहा है, क्या करूँ?",
+      "en": "The upper thread on my embroidery machine keeps breaking. What should I do?"
+    },
+    {
+      "fault_id": "needle_breaking",
+      "te": "మెషిన్ నడుస్తున్నప్పుడు సూది విరిగిపోతోంది, దీన్ని ఎలా సరిచేయాలి?",
+      "hi": "मशीन चलते समय सुई टूट जाती है, इसे कैसे ठीक करूँ?",
+      "en": "The needle breaks while the machine is running. How do I fix it?"
+    },
+    {
+      "fault_id": "design_misalignment",
+      "te": "డిజైన్ అవుట్‌లైన్ ఫిల్‌తో సరిపోవడం లేదు, మధ్యలో ఖాళీలు వస్తున్నాయి, ఏం చేయాలి?",
+      "hi": "डिज़ाइन की आउटलाइन फ़िल से मेल नहीं खा रही, बीच में गैप आ रहे हैं, क्या करूँ?",
+      "en": "The design outline does not line up with the fill and there are gaps. What should I do?"
+    },
+    {
+      "fault_id": "thread_nesting",
+      "te": "బట్ట కింద దారం చిక్కులు చిక్కులుగా వస్తోంది, ఎందుకు ఇలా అవుతోంది?",
+      "hi": "कपड़े के नीचे धागा उलझकर गुच्छा बन रहा है, ऐसा क्यों हो रहा है?",
+      "en": "Thread is tangling into a nest under the fabric. Why is this happening?"
+    }
+  ]
+}

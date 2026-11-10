@@ -1,0 +1,26 @@
+{"id": "demo-upper_thread_breaking-te", "text": "నా ఎంబ్రాయిడరీ మెషిన్‌లో పై దారం పదే పదే తెగిపోతోంది, ఏం చేయాలి?", "language": "te", "expected": "upper_thread_breaking", "kind": "demo"}
+{"id": "demo-upper_thread_breaking-hi", "text": "मेरी एम्ब्रॉयडरी मशीन में ऊपर का धागा बार-बार टूट रहा है, क्या करूँ?", "language": "hi", "expected": "upper_thread_breaking", "kind": "demo"}
+{"id": "demo-upper_thread_breaking-en", "text": "The upper thread on my embroidery machine keeps breaking. What should I do?", "language": "en", "expected": "upper_thread_breaking", "kind": "demo"}
+{"id": "demo-needle_breaking-te", "text": "మెషిన్ నడుస్తున్నప్పుడు సూది విరిగిపోతోంది, దీన్ని ఎలా సరిచేయాలి?", "language": "te", "expected": "needle_breaking", "kind": "demo"}
+{"id": "demo-needle_breaking-hi", "text": "मशीन चलते समय सुई टूट जाती है, इसे कैसे ठीक करूँ?", "language": "hi", "expected": "needle_breaking", "kind": "demo"}
+{"id": "demo-needle_breaking-en", "text": "The needle breaks while the machine is running. How do I fix it?", "language": "en", "expected": "needle_breaking", "kind": "demo"}
+{"id": "demo-design_misalignment-te", "text": "డిజైన్ అవుట్‌లైన్ ఫిల్‌తో సరిపోవడం లేదు, మధ్యలో ఖాళీలు వస్తున్నాయి, ఏం చేయాలి?", "language": "te", "expected": "design_misalignment", "kind": "demo"}
+{"id": "demo-design_misalignment-hi", "text": "डिज़ाइन की आउटलाइन फ़िल से मेल नहीं खा रही, बीच में गैप आ रहे हैं, क्या करूँ?", "language": "hi", "expected": "design_misalignment", "kind": "demo"}
+{"id": "demo-design_misalignment-en", "text": "The design outline does not line up with the fill and there are gaps. What should I do?", "language": "en", "expected": "design_misalignment", "kind": "demo"}
+{"id": "demo-thread_nesting-te", "text": "బట్ట కింద దారం చిక్కులు చిక్కులుగా వస్తోంది, ఎందుకు ఇలా అవుతోంది?", "language": "te", "expected": "thread_nesting", "kind": "demo"}
+{"id": "demo-thread_nesting-hi", "text": "कपड़े के नीचे धागा उलझकर गुच्छा बन रहा है, ऐसा क्यों हो रहा है?", "language": "hi", "expected": "thread_nesting", "kind": "demo"}
+{"id": "demo-thread_nesting-en", "text": "Thread is tangling into a nest under the fabric. Why is this happening?", "language": "en", "expected": "thread_nesting", "kind": "demo"}
+{"id": "para-1", "text": "top thread snapping again and again", "language": "en", "expected": "upper_thread_breaking", "kind": "paraphrase"}
+{"id": "para-2", "text": "దారం తెగుతూనే ఉంది", "language": "te", "expected": "upper_thread_breaking", "kind": "paraphrase"}
+{"id": "para-3", "text": "my needle snapped during stitching", "language": "en", "expected": "needle_breaking", "kind": "paraphrase"}
+{"id": "para-4", "text": "सुई बार बार टूटती है", "language": "hi", "expected": "needle_breaking", "kind": "paraphrase"}
+{"id": "para-5", "text": "outline is shifting away from the fill", "language": "en", "expected": "design_misalignment", "kind": "paraphrase"}
+{"id": "para-6", "text": "డిజైన్ జరిగిపోతోంది, అవుట్‌లైన్ పక్కకు వస్తోంది", "language": "te", "expected": "design_misalignment", "kind": "paraphrase"}
+{"id": "para-7", "text": "loops of thread under the cloth", "language": "en", "expected": "thread_nesting", "kind": "paraphrase"}
+{"id": "para-8", "text": "नीचे धागे का गुच्छा बन रहा है", "language": "hi", "expected": "thread_nesting", "kind": "paraphrase"}
+{"id": "unans-1", "text": "Do you deliver to Chennai?", "language": "en", "expected": "unknown", "kind": "unanswerable"}
+{"id": "unans-2", "text": "Tell me a joke", "language": "en", "expected": "unknown", "kind": "unanswerable"}
+{"id": "unans-3", "text": "How do I change my Instagram password?", "language": "en", "expected": "unknown", "kind": "unanswerable"}
+{"id": "unans-4", "text": "మీ షోరూమ్ ఎక్కడ ఉంది?", "language": "te", "expected": "unknown", "kind": "unanswerable"}
+{"id": "unans-5", "text": "आज मौसम कैसा है?", "language": "hi", "expected": "unknown", "kind": "unanswerable"}
+{"id": "unans-6", "text": "EMI options for embroidery machine?", "language": "en", "expected": "unknown", "kind": "unanswerable"}

@@ -1,0 +1,10 @@
+venv
+.venv
+.env
+frontend/node_modules
+data/index
+data/cache
+data/app.db
+**/__pycache__
+.pytest_cache
+.ruff_cache

@@ -1,0 +1,113 @@
+{
+  "_comment": "video: local /media/videos/<file>.mp4 OR an https YouTube URL (unlisted is fine). t = chapter start in seconds.",
+  "videos": [
+    {
+      "fault_id": "upper_thread_breaking",
+      "title": "Fixing upper thread breaks",
+      "video": "https://youtu.be/JJAgtHXDfZY",
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Power off"
+        },
+        {
+          "t": 6,
+          "label": "Re-thread"
+        },
+        {
+          "t": 12,
+          "label": "Tension"
+        },
+        {
+          "t": 18,
+          "label": "New needle"
+        },
+        {
+          "t": 24,
+          "label": "Test stitch"
+        }
+      ]
+    },
+    {
+      "fault_id": "needle_breaking",
+      "title": "Fixing a breaking needle",
+      "video": "https://youtu.be/PBAz1_Cvxw8",
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Power off"
+        },
+        {
+          "t": 6,
+          "label": "Remove pieces"
+        },
+        {
+          "t": 12,
+          "label": "Insert needle"
+        },
+        {
+          "t": 18,
+          "label": "Check hoop"
+        },
+        {
+          "t": 24,
+          "label": "Test stitch"
+        }
+      ]
+    },
+    {
+      "fault_id": "design_misalignment",
+      "title": "Fixing design misalignment",
+      "video": "https://youtu.be/BXDeR3Od0iU?si=Sxt-SBUYbNcMEmsW",
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Power off"
+        },
+        {
+          "t": 6,
+          "label": "Re-hoop"
+        },
+        {
+          "t": 12,
+          "label": "Stabilizer"
+        },
+        {
+          "t": 18,
+          "label": "Frame check"
+        },
+        {
+          "t": 24,
+          "label": "Test stitch"
+        }
+      ]
+    },
+    {
+      "fault_id": "thread_nesting",
+      "title": "Fixing thread nesting",
+      "video": "https://youtu.be/ynpeahvoVGA",
+      "chapters": [
+        {
+          "t": 0,
+          "label": "Power off"
+        },
+        {
+          "t": 6,
+          "label": "Remove nest"
+        },
+        {
+          "t": 12,
+          "label": "Re-thread"
+        },
+        {
+          "t": 18,
+          "label": "Bobbin"
+        },
+        {
+          "t": 24,
+          "label": "Test stitch"
+        }
+      ]
+    }
+  ]
+}

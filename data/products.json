@@ -1,0 +1,105 @@
+{
+  "source": "rrrgroupindia.com, Embroidery Machines collection (fetched Nov 2026)",
+  "products": [
+    {
+      "id": "m1",
+      "name": "RRR STAR PLUS 4-HEAD EMBROIDERY MACHINE",
+      "price": 850000,
+      "regular_price": 1062500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m2",
+      "name": "RRR 6G PRO MAX (20/32)",
+      "price": 330000,
+      "regular_price": 412500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m3",
+      "name": "RRR 9G PRO (20/32)",
+      "price": 340000,
+      "regular_price": 425000,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m4",
+      "name": "RRR STAR (28/48)",
+      "price": 450000,
+      "regular_price": 562500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m5",
+      "name": "RRR CLASSIC 6G PRO (20/32)",
+      "price": 330000,
+      "regular_price": 412500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m6",
+      "name": "RRR DREAM NEW (16/24)",
+      "price": 230000,
+      "regular_price": 250000,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m7",
+      "name": "RRR POWER PLUS DOUBLE HEAD (20/36)",
+      "price": 430000,
+      "regular_price": 537500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m8",
+      "name": "RRR FUTURE MODEL (20/48 and 20/32)",
+      "price": 390000,
+      "regular_price": 487500,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m9",
+      "name": "RRR NEW CLASSIC 6G (20/32)",
+      "price": 280000,
+      "regular_price": 350000,
+      "price_from": false,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    },
+    {
+      "id": "m10",
+      "name": "RRR POWER PLUS SINGLE HEAD (20/32)",
+      "price": 340000,
+      "regular_price": 400000,
+      "price_from": true,
+      "in_stock": true,
+      "currency": "INR",
+      "category": "Embroidery Machines"
+    }
+  ]
+}
